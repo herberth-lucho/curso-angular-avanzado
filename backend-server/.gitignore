@@ -1,0 +1,15 @@
+
+
+node_modules/
+
+google-sigin-demo/node_modules/
+
+# exclude everything
+uploads/hospitales/*
+uploads/medicos/*
+uploads/usuarios/*
+
+# exception to the rule
+!/uploads/hospitales/.gitkeep 
+!/uploads/medicos/.gitkeep 
+!/uploads/usuarios/.gitkeep 
