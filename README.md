@@ -1,2 +1,2 @@
-Repositorio de los ejecicios del curso de MEAN
-url: https://www.udemy.com/course/angular-avanzado-fernando-herrera/
+# Repositorio de los ejecicios del curso de MEAN
+# https://www.udemy.com/course/angular-avanzado-fernando-herrera/
